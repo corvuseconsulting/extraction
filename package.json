@@ -1,0 +1,12 @@
+{
+  "name": "extraction-engine",
+  "version": "1.0.0",
+  "description": "Corvuse Extraction Engine — Netlify serverless app",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
